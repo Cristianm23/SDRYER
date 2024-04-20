@@ -1,15 +1,15 @@
 *{
     background-color: rgb(121, 199, 101);
-    color: #006680;
+    color: #807e00;
 }
 header{
     color: rgb(219, 77, 11);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: beige;
-    width: 900px;
+    width: 750px;
     height: 100px;
-    font-size: 50;
-    margin-left: 215px;
+    font-size: 60px;
+    margin-left: 200px;
 }
 img{
     width: 100px;
@@ -20,5 +20,5 @@ img{
 .titulo2{color: #006680;
 }
 #Titulo3{display: flex; 
-        justify-content: center
+        justify-content: center;
 }
